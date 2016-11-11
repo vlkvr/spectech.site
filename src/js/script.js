@@ -1,0 +1,1 @@
+console.log("© Volkov Roman. www.volkovra.ru");
